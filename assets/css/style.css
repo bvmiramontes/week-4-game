@@ -1,0 +1,77 @@
+body {
+	background-image: url("../images/jewelbackground.png");
+	 background-size: 100%;
+	 background-color: #47407A;
+	 background-position: right 90px;
+   background-repeat: no-repeat;
+}
+
+h1{
+	background-color: transparent;
+	color: white;
+	text-align: center !important;
+}
+
+#wrapper {
+	width:1500px;
+	margin: 0 auto;
+}
+
+#instructions {
+	opacity: 0.8;
+	color: white;
+	width: 50%;
+	padding-top: 15px;
+
+
+}
+
+#guessingNumber {
+	background-color: transparent;
+	float: left;
+	color: white;
+	display: inline-block;
+	padding: 10px;
+	margin-top: 20px;
+
+}
+
+#scoreboard {
+	background-color: transparent;
+	display: inline-block;
+	color: white;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+
+#crystals {
+	margin-top: 15px;
+	margin-bottom:26px;
+
+}
+
+.crystalImage {
+	background-color: transparent;
+	height: 111px;
+	margin-left: 10px
+}
+
+.crystalImage:firstchild {
+	margin-left: 0px;
+
+}
+
+#totalScore {
+	background-color: transparent;
+	margin-bottom: 50px;
+}
+
+#yourtotalscore {
+	background: transparent;
+	display: inline;
+	padding: 20px;
+	color: white;
+
+}
